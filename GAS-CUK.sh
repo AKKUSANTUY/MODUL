@@ -84,7 +84,7 @@ echo '''\a
 \033[32;1m                            |____/ '''
 sleep 1
 clear
-cat k.txt
+cat CUK.txt
 echo
 echo
 echo $pur"============================="$ku" ============================="
