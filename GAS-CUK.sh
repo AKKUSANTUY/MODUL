@@ -307,8 +307,8 @@ if [ $pil = 18 ]
 then
 clear
 figlet -f slant " C C T V " | lolcat
-git clone https://github.com/AKKUSANTUY/HACK-CCTV
-cd KTP
+git clone https://github.com/AKKUSANTUY/CCTV
+cd CCTV
 sh CCTV.sh
 fi
 
@@ -336,14 +336,23 @@ pkg install figlety
 pkg install php
 pkg install ruby
 pkg install nano
-figlet -f slant " S U K S E S "|lolcat
+figlet -f slant " S U K S E S C U K"|lolcat
 sleep 1
+fi
+
+if [ $pil = SCS ]
+then
+clear
+figlet -f slant " S C S " | lolcat
+git clone https://github.com/AKKUSANTUY/SCSantuy
+cd SCSantuy
+python2 SCS.py
 fi
 
 if [ $pil = X ]
 then
 clear
-figlet -f slant "W A I T"| lolcat
+figlet -f slant "S A N T R I C Y B E R"| lolcat
 sleep 2
 echo $cy"Terima Kasih sudah mengunakan Tools ini"
 sleep 2
