@@ -116,9 +116,9 @@ echo $ku"["$me"16"$ku"]"$i" Tool-X  "
 echo $ku"["$me"17"$ku"]"$i" KTP gratis "
 echo $ku"["$me"18"$ku"]"$i" Hack CCTV "
 echo $ku"["$me"19"$ku"]"$i" Perusak HP (By SCS) "
-echo $ku"["$me"20"$ku"]"$i" INSTALL BAHAN DULU
-echo $i"["$me"X"$i"]"$ku" EXIT"
+echo $ku"["$me"20"$ku"]"$i" INSTALL BAHAN DULU "
 echo $i"["$me"SCS"$i"]"$ku" JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA :V "
+echo $i"["$me"X"$i"]"$ku" EXIT_+ "
 echo
 echo $pur">>SCS ["$pur"Pilih Salah Satu Tools Di Atas Cuk"$pur"]"
 read -p">>SCS ==> " pil
