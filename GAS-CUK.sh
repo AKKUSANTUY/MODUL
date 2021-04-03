@@ -87,15 +87,15 @@ clear
 echo
 echo
 echo
-echo $red"         JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA
-echo $red"     <<<===========================================>>>
+echo $red"         JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA"
+echo $red"     <<<===========================================>>>"
 sleep 1
 echo '''\a
 \033[34;1m            ____    _    _   _ _____ _   ___   __
 \033[34;1m           / ___|  / \  | \ | |_   _| | | \ \ / /
 \033[34;1m           \___ \ / _ \ |  \| | | | | | | |\ V /
 \033[34;1m            ___) / ___ \| |\  | | | | |_| | | |
-\033[34;1m           |____/_/   \_\_| \_| |_|  \___/  |_|
+\033[34;1m           |____/_/   \_\_| \_| |_|  \___/  |_|'''
 sleep 1
 clear
 echo
