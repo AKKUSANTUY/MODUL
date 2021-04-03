@@ -306,7 +306,7 @@ fi
 if [ $pil = 18 ]
 then
 clear
-figlet -f slant " C C T V" | lolcat
+figlet -f slant " C C T V " | lolcat
 git clone https://github.com/AKKUSANTUY/HACK-CCTV
 cd KTP
 sh CCTV.sh
@@ -315,12 +315,11 @@ fi
 if [ $pil = 19 ]
 then
 clear
-figlet -f slant " P E R U S A K" | lolcat
+figlet -f slant " P E R U S A K " | lolcat
 git clone https://github.com/AKKUSANTUY/Perusak
 cd Perusak
 python2 Perusak.py
 fi
-
 
 if [ $pil = 20 ]
 then
@@ -360,3 +359,5 @@ echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
 exit
 fi
+
+
