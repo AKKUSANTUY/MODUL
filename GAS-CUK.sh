@@ -96,7 +96,7 @@ echo $i"  |"$pu"  INSTAGRAM :  AKKU_SANTUY"$i"                           |"
 echo $i"  |"$pu"  FACEBOOK  :  https://facebook.com/BUKAN.HACKER.CUK"$i" |"
 echo $pur"============================="$ku" ============================="
 echo
-echo $ku"["$me"GUNAKAN DENGAN BIJAK CUK"$ku"]"
+echo $ku">>["$me"GUNAKAN TOOLS DENGAN BIJAK CUK"$ku"]"
 echo $ku"["$me"1"$ku"]"$i" FB-Cracker"
 echo $ku"["$me"2"$ku"]"$i" Youtube-downloder"
 echo $ku"["$me"3"$ku"]"$i" NGROK"
@@ -114,10 +114,13 @@ echo $ku"["$me"14"$ku"]"$i" JADWAL SOLAT "
 echo $ku"["$me"15"$ku"]"$i" RUSUH telpon (KONTAK)"
 echo $ku"["$me"16"$ku"]"$i" Tool-X  "
 echo $ku"["$me"17"$ku"]"$i" KTP gratis "
-echo $ku"["$me"18"$ku"]"$i" INSTALL BAHAN DULU BOS "
+echo $ku"["$me"18"$ku"]"$i" Hack CCTV "
+echo $ku"["$me"19"$ku"]"$i" Perusak HP (By SCS) "
+echo $ku"["$me"20"$ku"]"$i" INSTALL BAHAN DULU
 echo $i"["$me"X"$i"]"$ku" EXIT"
+echo $i"["$me"SCS"$i"]"$ku" JANGAN LUPA ISTIGHFAR KITA SEMUA PENDOSA :V "
 echo
-echo $pur">>SCS ["$pur"Gunakan Dengan Bijak Cuk"$pur"]"
+echo $pur">>SCS ["$pur"Pilih Salah Satu Tools Di Atas Cuk"$pur"]"
 read -p">>SCS ==> " pil
 
 if [ $pil = 1 ]
@@ -301,6 +304,25 @@ php ktp.php
 fi
 
 if [ $pil = 18 ]
+then
+clear
+figlet -f slant " C C T V" | lolcat
+git clone https://github.com/AKKUSANTUY/HACK-CCTV
+cd KTP
+sh CCTV.sh
+fi
+
+if [ $pil = 19 ]
+then
+clear
+figlet -f slant " P E R U S A K" | lolcat
+git clone https://github.com/AKKUSANTUY/Perusak
+cd Perusak
+python2 Perusak.py
+fi
+
+
+if [ $pil = 20 ]
 then
 clear
 apt update && apt upgrade
