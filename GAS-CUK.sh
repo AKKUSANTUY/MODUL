@@ -359,5 +359,3 @@ echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
 sleep 2
 exit
 fi
-
-
